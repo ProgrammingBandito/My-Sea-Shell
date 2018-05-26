@@ -12,7 +12,9 @@ It runs from BASH and can do the following task:
 
 -sleep
 
--EOF and SIGINT redirect
+-EOF and SIGINT i.e. CTRL+D to quit shell and CTRL+C to clear current shell entry. 
+
+-Redirect Built-In: command > filename.txt
 
 Use Notes:
 
